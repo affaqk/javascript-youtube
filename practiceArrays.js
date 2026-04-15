@@ -89,10 +89,12 @@
 // combine map, filter and reduce
 
 
-const marks = [67, 78, 44, 90, 80, 12, 15, 71, 88, 90];
+// const marks = [67, 78, 44, 90, 80, 12, 15, 71, 88, 90];
 
-let newStudents = marks.filter((student) => student > 70).map((std5) => std5+5).reduce((acc, val) => acc + val, 0)
+// let newStudents = marks.filter((student) => student > 70).map((std5) => std5+5).reduce((acc, val) => acc + val, 0)
 
 
 // filter marks > 70 : add 5 in those marks : find out the total of marks
-console.log(newStudents);
+// console.log(newStudents);
+
+
